@@ -43,8 +43,8 @@
 
         public void Print()
         {
-            Console.WriteLine($"Name: {Name}");
-            Console.WriteLine($"Date: {PublicationDate.ToShortDateString()}");
+            Console.WriteLine($"Name : {Name}");
+            Console.WriteLine($"Date : {PublicationDate.ToShortDateString()}");
         }
     }
 
